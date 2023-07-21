@@ -4,4 +4,4 @@ console.log('demo');
 
 console.error('error log it');
 
-console.log('new log');
+console.log('new log edited');
